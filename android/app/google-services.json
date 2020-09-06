@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "14197478195",
+    "firebase_url": "https://senditchat-39d8a.firebaseio.com",
+    "project_id": "senditchat-39d8a",
+    "storage_bucket": "senditchat-39d8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14197478195:android:606591ca84c3ec2d9a6446",
+        "android_client_info": {
+          "package_name": "com.subhayan64.SenditChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14197478195-l90d3pvjfal8o0f08gb9jh6gmd0t3sf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeCBX8TGQQE7utaCfe1hyhD1pq7KJnI74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14197478195-l90d3pvjfal8o0f08gb9jh6gmd0t3sf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
