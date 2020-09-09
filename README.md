@@ -2,11 +2,17 @@
 
 Modern messaging app where users can sign up and log in to chat.
 
-## Goal
+Developed by Subhayan Mukhopadhyay [https://github.com/subhayan64].
 
-Incorporate Firebase into the Flutter app. Using Firebase Cloud Firestore as well as the Firebase authentication package to equip the app with a cloud-based NoSQL database and secure authentication method.
+## Demo
 
-## Things to learn
+![SenditChat App](https://github.com/subhayan64/shiny-octo-tribble/blob/master/SenditChat_demo.gif)\
+
+## Achieved
+
+Incorporated Firebase into the Flutter app. Using Firebase Cloud Firestore as well as the Firebase authentication package to equip the app with a cloud-based NoSQL database and secure authentication method.
+
+## Things learnt
 
 - Incorporating Firebase into Flutter project.
 - Using Firebase authentication to register and sign in users.
